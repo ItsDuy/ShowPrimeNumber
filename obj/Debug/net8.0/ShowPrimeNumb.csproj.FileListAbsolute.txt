@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\ShowPrimeNumb\bin\Debug\net8.0\ShowPrimeNumb.exe
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\ShowPrimeNumb\bin\Debug\net8.0\ShowPrimeNumb.deps.json
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\ShowPrimeNumb\bin\Debug\net8.0\ShowPrimeNumb.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\ShowPrimeNumb\bin\Debug\net8.0\ShowPrimeNumb.dll
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\ShowPrimeNumb\bin\Debug\net8.0\ShowPrimeNumb.pdb
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\ShowPrimeNumb\obj\Debug\net8.0\ShowPrimeNumb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\ShowPrimeNumb\obj\Debug\net8.0\ShowPrimeNumb.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\ShowPrimeNumb\obj\Debug\net8.0\ShowPrimeNumb.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\ShowPrimeNumb\obj\Debug\net8.0\ShowPrimeNumb.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\ShowPrimeNumb\obj\Debug\net8.0\ShowPrimeNumb.dll
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\ShowPrimeNumb\obj\Debug\net8.0\refint\ShowPrimeNumb.dll
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\ShowPrimeNumb\obj\Debug\net8.0\ShowPrimeNumb.pdb
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\ShowPrimeNumb\obj\Debug\net8.0\ShowPrimeNumb.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\ShowPrimeNumb\obj\Debug\net8.0\ref\ShowPrimeNumb.dll
